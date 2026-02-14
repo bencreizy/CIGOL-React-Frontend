@@ -1,0 +1,1 @@
+// Application logic is consolidated into index.html to ensure compatibility with standalone browser execution.

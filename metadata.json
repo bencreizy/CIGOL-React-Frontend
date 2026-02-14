@@ -1,0 +1,5 @@
+{
+  "name": "CIGOL frontend",
+  "description": "A modern React implementation of the PyScript Message App with custom local model integration and workspace tools.",
+  "requestFramePermissions": []
+}
